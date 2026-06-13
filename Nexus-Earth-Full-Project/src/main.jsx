@@ -1,0 +1,1 @@
+import React from 'react';import ReactDOM from 'react-dom/client';import './styles.css';function App(){return <div className='app'><h1>🌍 Nexus Earth</h1><p>Runnable demo project</p></div>}ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
